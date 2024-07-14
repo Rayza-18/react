@@ -1,0 +1,19 @@
+.miniatura{
+    width: 423px;
+    height: 260.85px;
+    box-shadow: inset 1px 1px 1px #6BD1FF;
+}
+
+.cardbarra{
+    width: 430px;
+    height: 59px;
+    background-color:black ;
+    border: solid 1px #746BFF ;
+}
+.btn{
+    color: #ffffff;
+   background-color: transparent;
+   border: none;
+   width: 113px;
+   height: 28px;
+}

@@ -1,0 +1,21 @@
+
+footer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #222831;
+    border-top: solid 2px #6DC9C8;
+    
+}
+.logoFooter{
+   width: 25%;
+}
+button{
+        display: none;
+    }
+.a_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
